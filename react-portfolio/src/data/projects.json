@@ -1,14 +1,14 @@
 [
     {
       "title": "EasyScan",
-      "imageSrc": "/assets/projects/project1.png",
+      "imageSrc": "./assets/projects/project1.png",
       "description": "This project was made with Typescript and React.Native! Scanning items app for stores",
       "skills": ["React.Native", "Express", "Node"],
       "source": "https://github.com/LF-creator/my-new-project"
     },
     {
       "title": "Demo E-Wallet Redux",
-      "imageSrc": "/assets/projects/project2.png",
+      "imageSrc": "./assets/projects/project2.png",
       "description": "This is a project made to learn the latest languages by building an app.",
       "skills": ["React", "Express", "Node", "Sass"],
       "demo": "https://www.example.com",
@@ -16,7 +16,7 @@
     },
     {
       "title": "DH Store",
-      "imageSrc": "/assets/projects/project3.png",
+      "imageSrc": "./assets/projects/project3.png",
       "description": "This is a project made to learn the latest languages by building an app.",
       "skills": ["React", "Express", "Node"],
       "demo": "https://www.example.com",
