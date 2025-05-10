@@ -47,22 +47,22 @@ Feel free to reach out via the contact form on the site or connect with me on Li
 ## 📷 Screenshots
 
 ### Homepage
-![Homepage](frontend/public/screenshots/hero.png)
+![Homepage](react-portfolio/public/screenshots/hero.png)
 
 ### Contact Button
-![Homepage](frontend/public/screenshots/contact.png)
+![Homepage](react-portfolio/public/screenshots/contact.png)
 
 ### About Section
-![Aboutpage](frontend/public/screenshots/about.png)
+![Aboutpage](react-portfolio/public/screenshots/about.png)
 
 ### Experience Section
-![Experiencepage](frontend/public/screenshots/exp.png)
+![Experiencepage](react-portfolio/public/screenshots/exp.png)
 
 ### Experience Section
-![Experiencepage](frontend/public/screenshots/exp2.png)
+![Experiencepage](react-portfolio/public/screenshots/exp2.png)
 
 ### Projects Section
-![Projects](frontend/public/screenshots/projects.png)
+![Projects](react-portfolio/public/screenshots/projects.png)
 
 
 ------------------------------------------------------------------------------------------------------------
@@ -70,22 +70,22 @@ Feel free to reach out via the contact form on the site or connect with me on Li
 ## 📷 Screenshots Mobile
 
 ### Homepage
-![Homepage](frontend/public/screenshots/mob-hero.png)
+![Homepage](react-portfolio/public/screenshots/mob-hero.png)
 
 ### Home NavBar
-![Homepage](frontend/public/screenshots/mob-nav.png)
+![Homepage](react-portfolio/public/screenshots/mob-nav.png)
 
 ### About Section
-![Aboutpage](frontend/public/screenshots/mob-about.png)
+![Aboutpage](react-portfolio/public/screenshots/mob-about.png)
 
 ### Experience Section
-![Experiencepage](frontend/public/screenshots/mob-exp.png)
+![Experiencepage](react-portfolio/public/screenshots/mob-exp.png)
 
 ### Projects Section
-![Projects](frontend/public/screenshots/mob-pro.png)
+![Projects](react-portfolio/public/screenshots/mob-pro.png)
 
 ### Jokes Section
-![Jokespage](frontend/public/screenshots/mob-jokes.png)
+![Jokespage](react-portfolio/public/screenshots/mob-jokes.png)
 
 ------------------------------------------------------------------------------------------------------------
 
