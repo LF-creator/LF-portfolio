@@ -15,7 +15,7 @@ export const Navbar = () => {
 
   return (
     <nav className={styles.navbar}>
-      <a className={styles.title} href="/" onClick={handleLinkClick}>
+      <a className={styles.title} href="/LF-portfolio/" onClick={handleLinkClick}>
         Portfolio
       </a>
 
