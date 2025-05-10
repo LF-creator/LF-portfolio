@@ -38,7 +38,7 @@ npm install express
 node server.js
 
 🌐 Live Demo
-[Coming soon / Add your live site link here]
+[(https://lf-creator.github.io/LF-portfolio/)]
 
 📬 Contact
 Feel free to reach out via the contact form on the site or connect with me on LinkedIn.
