@@ -1,0 +1,31 @@
+[
+  {
+    "role": "Fullstack-developer Intern",
+    "organisation": "Linespotting AB",
+    "startDate": "Nov, 2023",
+    "endDate": "Apr, 2024 ",
+    "experiences": ["Leading a Team", "Developing App (React.Native)"],
+    "imageSrc": "/assets/history/linespotting.png",
+    "skills": ["React", "Typescript", "Git", "Node.js", "Arduino", "CSS", "Figma","HTML"]
+  },
+    
+    {
+      "role": "Student",
+      "organisation": "Nackademin",
+      "startDate": "Aug, 2022",
+      "endDate": "May, 2024",
+      "experiences": ["Frontend-developer", "UX-Design"],
+      "imageSrc": "/assets/history/nackademin.png",
+      "skills": ["Typescript", "React", "Redux", "Next.js", "CSS","HTML","MongoDB","Git","Vite","Figma","Node.js","Express.js","Jest.js" ]
+    },
+    {
+      "role": "Student",
+      "organisation": "Jensen Education",
+      "startDate": "Aug, 2020",
+      "endDate": "May, 2022",
+      "experiences": ["Frontend", "Backend", "Java"],
+      "imageSrc": "/assets/history/jensen.png",
+      "skills": ["Java", "MariaDB", "HTML", "Php", "CSS" ]
+    }
+  ]
+

@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Outfit", Arial, Helvetica, sans-serif;
+}
+
+section {
+  scroll-margin-top: 100px; 
+}
+
+body, html {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+body.lock-scroll {
+  overflow: hidden;
+  position: fixed;
+  width: 100%;
+}
