@@ -42,3 +42,53 @@ node server.js
 
 📬 Contact
 Feel free to reach out via the contact form on the site or connect with me on LinkedIn.
+
+
+## 📷 Screenshots
+
+### Homepage
+![Homepage](frontend/public/screenshots/hero.png)
+
+### Contact Button
+![Homepage](frontend/public/screenshots/contact.png)
+
+### About Section
+![Aboutpage](frontend/public/screenshots/about.png)
+
+### Experience Section
+![Experiencepage](frontend/public/screenshots/exp.png)
+
+### Experience Section
+![Experiencepage](frontend/public/screenshots/exp2.png)
+
+### Projects Section
+![Projects](frontend/public/screenshots/projects.png)
+
+
+------------------------------------------------------------------------------------------------------------
+
+## 📷 Screenshots Mobile
+
+### Homepage
+![Homepage](frontend/public/screenshots/mob-hero.png)
+
+### Home NavBar
+![Homepage](frontend/public/screenshots/mob-nav.png)
+
+### About Section
+![Aboutpage](frontend/public/screenshots/mob-about.png)
+
+### Experience Section
+![Experiencepage](frontend/public/screenshots/mob-exp.png)
+
+### Projects Section
+![Projects](frontend/public/screenshots/mob-pro.png)
+
+### Jokes Section
+![Jokespage](frontend/public/screenshots/mob-jokes.png)
+
+------------------------------------------------------------------------------------------------------------
+
+
+
+
