@@ -38,7 +38,7 @@ export const Hero = () => {
           <div className={styles.cardOverlay} onClick={() => setShowCard(false)}>
             <div className={styles.contactCard} onClick={(e) => e.stopPropagation()}>
               <h2>Contact Me</h2>
-              <p>Email: your-email@gmail.com</p>
+              <p>Email: Linarfatkullin1996@gmail.com</p>
               <p className={styles.typingText}>📍 Sweden, Stockholm</p>
               <p className={styles.typingText}>Let’s build something awesome together.</p>
 
