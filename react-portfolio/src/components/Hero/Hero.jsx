@@ -12,16 +12,20 @@ export const Hero = () => {
   };
 
   useEffect(() => {
-  if (showCard) {
-    document.body.classList.add("lock-scroll");
-  } else {
-    document.body.classList.remove("lock-scroll");
-  }
+    if (showCard) {
+      
+      if (window.innerWidth <= 768) { 
+        document.body.classList.add("lock-scroll");
+      }
+    } else {
+      document.body.classList.remove("lock-scroll");
+    }
 
-  return () => {
-    document.body.classList.remove("lock-scroll");
-  };
-}, [showCard]);
+    
+    return () => {
+      document.body.classList.remove("lock-scroll");
+    };
+  }, [showCard]);
 
   return (
     <section className={styles.container}>

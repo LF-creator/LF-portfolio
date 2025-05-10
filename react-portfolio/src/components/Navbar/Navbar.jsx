@@ -6,7 +6,10 @@ export const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
 
   const handleLinkClick = () => {
-    document.body.classList.remove("lock-scroll"); 
+    if (window.innerWidth <= 768) {
+      
+      document.body.classList.remove("lock-scroll");
+    }
     setMenuOpen(false); 
   };
 
