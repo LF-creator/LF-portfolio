@@ -2,23 +2,23 @@
     {
       "title": "EasyScan",
       "imageSrc": "./assets/projects/project1.png",
-      "description": "This project was made with Typescript and React.Native! Scanning items app for stores",
-      "skills": ["React.Native", "Express", "Node"],
+      "description": "This project was made with Typescript and React.Native! Scanning products.",
+      "skills": ["React.Native", "Express", "Node","Typescript"],
       "source": "https://github.com/LF-creator/my-new-project"
     },
     {
-      "title": "Demo E-Wallet Redux",
+      "title": "E-Wallet Redux",
       "imageSrc": "./assets/projects/project2.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
+      "description": "A E-wallet project that is a focus using Redux and React",
+      "skills": ["React", "Express", "Node", "Sass","JS", "TS"],
       "demo": "https://www.example.com",
       "source": "https://github.com/LF-creator/E-wallet"
     },
     {
       "title": "DH Store",
       "imageSrc": "./assets/projects/project3.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
+      "description": "A school project involves using typescript and express to make a store!",
+      "skills": ["React", "Express", "Node", "Typescript"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
     }
