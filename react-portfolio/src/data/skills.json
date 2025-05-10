@@ -1,71 +1,71 @@
 [
     {
       "title": "HTML",
-      "imageSrc": "/assets/skills/html.png"
+      "imageSrc": "./assets/skills/html.png"
     },
     {
       "title": "CSS",
-      "imageSrc": "/assets/skills/css.png"
+      "imageSrc": "./assets/skills/css.png"
     },
     {
       "title": "React",
-      "imageSrc": "/assets/skills/react.png"
+      "imageSrc": "./assets/skills/react.png"
     },
     {
       "title": "Next.js",
-      "imageSrc": "/assets/skills/nextjs.png"
+      "imageSrc": "./assets/skills/nextjs.png"
     },
     {
       "title": "Figma",
-      "imageSrc": "/assets/skills/figma.png"
+      "imageSrc": "./assets/skills/figma.png"
     },
     {
       "title": "Typescript",
-      "imageSrc": "/assets/skills/typescript.png"
+      "imageSrc": "./assets/skills/typescript.png"
     },
     {
       "title": "Redux",
-      "imageSrc": "/assets/skills/redux.png"
+      "imageSrc": "./assets/skills/redux.png"
     },
     {
       "title": "Vite",
-      "imageSrc": "/assets/skills/vite.png"
+      "imageSrc": "./assets/skills/vite.png"
     },
     {
       "title": "Php",
-      "imageSrc": "/assets/skills/php.png"
+      "imageSrc": "./assets/skills/php.png"
     },
     {
       "title": "Express.js",
-      "imageSrc": "/assets/skills/expressjs.png"
+      "imageSrc": "./assets/skills/expressjs.png"
     },
     {
       "title": "Arduino",
-      "imageSrc": "/assets/skills/arduino.png"
+      "imageSrc": "./assets/skills/arduino.png"
     },
     {
       "title": "Git",
-      "imageSrc": "/assets/skills/git.png"
+      "imageSrc": "./assets/skills/git.png"
     },
     {
       "title": "Java",
-      "imageSrc": "/assets/skills/java.png"
+      "imageSrc": "./assets/skills/java.png"
     },
     {
       "title": "MariaDB",
-      "imageSrc": "/assets/skills/mariadb.png"
+      "imageSrc": "./assets/skills/mariadb.png"
     },
     {
       "title": "Node.js",
-      "imageSrc": "/assets/skills/node.png"
+      "imageSrc": "./assets/skills/node.png"
     },
     {
       "title": "MongoDB",
-      "imageSrc": "/assets/skills/mongodb.png"
+      "imageSrc": "./assets/skills/mongodb.png"
     },
     {
       "title": "Jest.js",
-      "imageSrc": "/assets/skills/jest.png"
+      "imageSrc": "./assets/skills/jest.png"
     }
     
 
