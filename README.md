@@ -26,7 +26,6 @@ LF-portfolio/
 
 ### Frontend
 
-bash
 cd react-portfolio
 npm install
 npm run dev
