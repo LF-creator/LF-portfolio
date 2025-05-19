@@ -40,7 +40,7 @@ node server.js
 [(https://lf-creator.github.io/LF-portfolio/)]
 
 📬 Contact
-Feel free to reach out via the contact form on the site or connect with me on LinkedIn.
+Feel free to reach out via LinkedIn.
 
 
 ## 📷 Screenshots
